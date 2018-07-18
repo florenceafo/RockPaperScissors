@@ -1,1 +1,1 @@
-RockPaperScissors.class
+*.class
